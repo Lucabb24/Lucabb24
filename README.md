@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Łukasz! 👋
 
-<!--
-**Lucabb24/Lucabb24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Financial Analyst student with an economic background, strongly focused on the synergy between finance and modern technologies. 
 
-Here are some ideas to get you started:
+## About Me
+* 📊 **Data & BI:** Practical experience in report automation, data analysis using Python, SQL, and Excel, as well as designing interactive Business Intelligence dashboards.
+* 💼 **Business Experience:** Analytical skills backed by operational experience in a global procurement department and an accounting office.
+* 🤖 **AI & Automation:** Proficient in leveraging modern AI tools (LLMs) to optimize workflows and automate repetitive business tasks.
+* 🎯 **Goal:** Looking for a role within Financial Control | Data | BI to translate raw data into actionable business recommendations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+* **Languages:** Python, SQL (MySQL)
+* **Tools:** Power BI, MS Excel (VBA)
+* **Core Focus:** Corporate Finance, Data Wrangling, BI Reporting
